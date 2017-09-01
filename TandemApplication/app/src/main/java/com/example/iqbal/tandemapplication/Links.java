@@ -29,7 +29,7 @@ public class Links implements Serializable {
         str += "Article Link: ";
         str += article_link + ",\n";
         str += "Video Link: ";
-        str += mission_patch + ",\n";
+        str += video_link + ",\n";
         return str;
     }
 }
